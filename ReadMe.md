@@ -6,10 +6,15 @@ here I will be sharing some notes and assignment on deep neural networks.
 
 * [Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
-```
-Give examples
-```
 
 
+## Issues
+
+     1.  ModuleNotFoundError: No module named 'pip'
+
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+```
 
 
