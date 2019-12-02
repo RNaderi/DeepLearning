@@ -1,6 +1,6 @@
 # My Deep learning Assignments
 
-here I will be sharing some notes and assignment on deep neural networks.
+here I will be sharing some notes and assignments on deep neural networks.
 
 ## Prerequisites
 
